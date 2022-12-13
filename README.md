@@ -108,10 +108,15 @@ proper information with limited actractive sentance make people to take that to 
 
 #### Machine learning Accuracy Analysis
 Logistic regresion :79.89%
+
 SVM :75.87%
+
 kNN :84.17%
+
 Random Forest :83.16%
+
 Decision Tree :92.21%
+
 In this Travel insurance prediction dataset the target variable is in the form of catogory
 5 classification model is checked with this dataset like logistic regresion,randomforest,svm,knn,Decisiontree
 from the above model the Decision got high accuracy compared with other 4,it around 92.21 %.
